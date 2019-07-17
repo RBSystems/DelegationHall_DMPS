@@ -1,0 +1,9 @@
+<Device Model="DMPS3-4K-350-C">
+   <Network Type="Cresnet" Id="06"/>
+   <Network Type="Ethernet" Id="07">
+      <Device Model="Crestron_App" DeviceId="04" Name="Crestron App"/>
+      <Device Model="Core3 UI XPanel" DeviceId="05" Name="XPanel 2.0 Smart Graphics"/>
+      <Device Model="PSPHD" DeviceId="06" Name="PSPHD (Ethernet)"/>
+      <Device Model="PROAMP-7x250" DeviceId="07" Name="PROAMP-7x250 (Ethernet)"/>
+   </Network>
+</Device>
